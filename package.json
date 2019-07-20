@@ -1,0 +1,11 @@
+{
+  "name": "us-state-converter",
+  "version": "1.0.0",
+  "description": "A package that converts U.S. state abbreviations to full names and back",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Smith",
+  "license": "ISC"
+}
