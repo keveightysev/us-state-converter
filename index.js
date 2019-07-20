@@ -457,7 +457,7 @@ const list = [
   },
 ]
 
-const states = (() => {
+module.exports = (() => {
   const main = state => {
     if (!state) return list
     state = state.split('.').join('')
@@ -512,5 +512,3 @@ const states = (() => {
 
   return main
 })()
-
-exports.states = states
