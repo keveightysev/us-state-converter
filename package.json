@@ -1,6 +1,6 @@
 {
   "name": "us-state-converter",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A package that converts U.S. state abbreviations to full names and back",
   "main": "index.js",
   "scripts": {
