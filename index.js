@@ -304,6 +304,14 @@ const list = [
     uscg: 'OK',
   },
   {
+    name: 'Oregon',
+    usps: 'OR',
+    demonym: 'Oregonian',
+    iso: 'US-OR',
+    altAbbr: ['Ore'],
+    uscg: 'OR',
+  },
+  {
     name: 'Pennsylvania',
     usps: 'PA',
     demonym: 'Pennsylvanian',
