@@ -1,18 +1,21 @@
 {
   "name": "us-state-converter",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "A package that converts U.S. state abbreviations to full names and back",
   "main": "index.js",
   "author": {
     "name": "Kevin Smith",
-    "email": "kevin@iridigital.com",
-    "url": "https://www.iridigital.com"
+    "email": "i.am@kevinsmith.dev",
+    "url": "https://kevinsmith.dev"
   },
   "contributors": [
     {
       "name": "Kevin Smith",
-      "email": "kevin@iridigital.com",
-      "url": "https://www.iridigital.com"
+      "email": "i.am@kevinsmith.dev",
+      "url": "https://kevinsmith.dev"
+    },
+    {
+      "name": "Edwin Chu"
     }
   ],
   "bugs": "https://github.com/keveightysev/us-state-converter/issues",
