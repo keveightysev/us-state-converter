@@ -7,7 +7,9 @@ declare module 'us-state-converter' {
     altAbbr: string[];
     uscg: string;
   };
-  type Converter = (state: string) => StateInfo | undefined;
+  type Converter = <T extends string | undefined = undefined>(
+    state?: T
+  ) => T extends string ? StateInfo | 'No state found!' : StateInfo[];
   const converter: Converter;
   export function fullName(abbrevation: string): string;
   export function abbr(fullName: string): string;
