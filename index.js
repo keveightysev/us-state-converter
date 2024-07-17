@@ -232,14 +232,6 @@ const list = [
     uscg: 'NV',
   },
   {
-    name: 'Nevada',
-    usps: 'NV',
-    demonym: 'Nevadan',
-    iso: 'US-NV',
-    altAbbr: ['Nev'],
-    uscg: 'NV',
-  },
-  {
     name: 'New Hampshire',
     usps: 'NH',
     demonym: 'New Hampshirite',
