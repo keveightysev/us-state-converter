@@ -1,6 +1,6 @@
 {
   "name": "us-state-converter",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A package that converts U.S. state abbreviations to full names and back",
   "main": "index.js",
   "author": {
@@ -16,6 +16,13 @@
     },
     {
       "name": "Edwin Chu"
+    },
+    {
+      "name": "Anton Khitrenovich",
+      "url": "http://technotes.khitrenovich.com/"
+    },
+    {
+      "name": "tharinduAppno"
     }
   ],
   "bugs": "https://github.com/keveightysev/us-state-converter/issues",
